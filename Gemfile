@@ -12,3 +12,4 @@ gem 'tzinfo-data', platforms: [:mswin, :mingw, :jruby]
 gem 'middleman', '~> 4.2'
 gem 'middleman-livereload', '~> 3.4'
 gem "middleman-dato"
+gem "dato"

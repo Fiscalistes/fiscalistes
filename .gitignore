@@ -9,6 +9,8 @@
 
 # Ignore the build directory
 /build
+/node_modules
+
 
 # Ignore cache
 /.sass-cache

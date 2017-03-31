@@ -158,6 +158,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  dato
   middleman (~> 4.2)
   middleman-dato
   middleman-livereload (~> 3.4)
